@@ -33,4 +33,4 @@
 
 ### 参考资料
 
-RT-Thread 官网文档示例 https://www.rt-thread.org/document/
+RT-Thread 官网文档示例 https://www.rt-thread.org/document/site/
